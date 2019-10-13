@@ -229,3 +229,7 @@ a:hover, a:focus, a:active {
   text-transform: uppercase;
 }
 
+.carousel-item {
+  hight : auto;}
+
+
